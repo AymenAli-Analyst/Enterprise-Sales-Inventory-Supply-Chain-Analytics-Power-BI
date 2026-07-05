@@ -1,0 +1,34 @@
+Product_ID,Product_Name,Category,Unit_Price_SAR,Cost_Price_SAR,Supplier_ID,Launch_Date,Is_Active,Unit_of_Measure
+PRD001,Fresh Milk 1L,Fresh Dairy,12.18,7.24,SUP019,6/11/2018 0:00,TRUE,Gram
+PRD002,Fresh Milk 2L,Fresh Dairy,8.37,4.89,SUP024,2/10/2018 0:00,TRUE,Piece
+PRD003,Laban 1L,Fresh Dairy,8.59,5.15,SUP007,6/25/2019 0:00,TRUE,Piece
+PRD004,Laban Small,Fresh Dairy,24.95,15.05,SUP002,10/3/2016 0:00,TRUE,Gram
+PRD005,Yogurt Plain 150g,Fresh Dairy,4.13,2.5,SUP001,8/29/2021 0:00,TRUE,Liter
+PRD006,Yogurt Fruit 150g,Fresh Dairy,17.98,11.8,SUP006,12/10/2018 0:00,TRUE,Gram
+PRD007,UHT Full Cream 1L,UHT Milk,4.78,2.98,SUP017,2/5/2017 0:00,TRUE,Kilogram
+PRD008,UHT Low Fat 1L,UHT Milk,16.91,11.44,SUP011,8/31/2022 0:00,TRUE,Piece
+PRD009,UHT Chocolate 200ml,UHT Milk,6.32,4.12,SUP016,11/30/2019 0:00,TRUE,Gram
+PRD010,UHT Strawberry 200ml,UHT Milk,10.17,6.04,SUP003,3/15/2019 0:00,TRUE,Liter
+PRD011,UHT Full Cream 250ml,UHT Milk,10.67,6.07,SUP009,2/24/2023 0:00,TRUE,Pack
+PRD012,Cream Cheese 200g,Cheese,21.43,14.68,SUP025,11/25/2021 0:00,TRUE,Pack
+PRD013,Cheddar Slices 200g,Cheese,23.34,16.93,SUP003,9/20/2015 0:00,TRUE,Gram
+PRD014,Mozzarella 200g,Cheese,6.85,5.11,SUP020,5/30/2017 0:00,TRUE,Pack
+PRD015,Feta Cheese 500g,Cheese,24.92,18.52,SUP005,3/29/2018 0:00,TRUE,Liter
+PRD016,Processed Cheese 400g,Cheese,7.15,4.33,SUP019,11/3/2022 0:00,TRUE,Liter
+PRD017,Orange Juice 1L,Juices,21.84,13.78,SUP001,9/19/2016 0:00,TRUE,Liter
+PRD018,Mango Juice 1L,Juices,23.58,16.68,SUP008,9/11/2015 0:00,TRUE,Liter
+PRD019,Mixed Fruit 1L,Juices,11.19,8.26,SUP025,2/28/2020 0:00,TRUE,Pack
+PRD020,Apple Juice 200ml,Juices,6.54,4.31,SUP022,8/14/2017 0:00,TRUE,Piece
+PRD021,Pomegranate 1L,Juices,6.87,3.8,SUP014,7/24/2018 0:00,TRUE,Gram
+PRD022,Butter Salted 100g,Butter & Cream,11.06,7.73,SUP003,2/5/2016 0:00,TRUE,Piece
+PRD023,Butter Unsalted 100g,Butter & Cream,14.94,9.73,SUP022,11/11/2017 0:00,TRUE,Kilogram
+PRD024,Cooking Cream 200ml,Butter & Cream,13.71,10.02,SUP002,3/8/2017 0:00,TRUE,Piece
+PRD025,Whipping Cream 250ml,Butter & Cream,15.69,10.18,SUP005,5/26/2023 0:00,TRUE,Kilogram
+PRD026,Table Eggs 30pcs,Poultry & Eggs,13.98,9.29,SUP017,1/17/2015 0:00,TRUE,Gram
+PRD027,Brown Eggs 30pcs,Poultry & Eggs,23.69,17.55,SUP021,1/9/2022 0:00,TRUE,Liter
+PRD028,Whole Chicken 900g,Poultry & Eggs,19.45,14.4,SUP017,10/29/2015 0:00,TRUE,Kilogram
+PRD029,Chicken Breast 500g,Poultry & Eggs,15.59,11.63,SUP020,7/10/2015 0:00,TRUE,Kilogram
+PRD030,Sliced Bread White,Bakery,11.47,8.26,SUP003,5/8/2015 0:00,TRUE,Pack
+PRD031,Sliced Bread Brown,Bakery,15.25,11.24,SUP003,3/10/2020 0:00,TRUE,Pack
+PRD032,Croissant 4pcs,Bakery,16.53,12.36,SUP002,6/4/2015 0:00,TRUE,Pack
+PRD033,Muffins 6pcs,Bakery,22.3,15.57,SUP001,9/3/2015 0:00,TRUE,Kilogram

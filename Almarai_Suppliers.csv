@@ -1,0 +1,26 @@
+Supplier_ID,Supplier_Name,Supplier_Type,Country,City,Contract_Start_Date,Rating,Payment_Terms_Days,Is_Active
+SUP001,Almarai Supplier 1,Equipment,Denmark,Istanbul,7/18/2018 0:00,4.5,30,TRUE
+SUP002,Almarai Supplier 2,Feed Supplier,UAE,Amman,1/22/2019 0:00,4.7,90,TRUE
+SUP003,Almarai Supplier 3,Equipment,Egypt,Copenhagen,2/8/2017 0:00,4.4,45,TRUE
+SUP004,Almarai Supplier 4,Dairy Farm,Jordan,Rotterdam,4/4/2016 0:00,4.2,30,TRUE
+SUP005,Almarai Supplier 5,Feed Supplier,Saudi Arabia,Dammam,1/2/2022 0:00,3.3,90,FALSE
+SUP006,Almarai Supplier 6,Feed Supplier,Denmark,Copenhagen,3/14/2020 0:00,4,90,TRUE
+SUP007,Almarai Supplier 7,Equipment,Turkey,Amman,11/28/2022 0:00,3.1,90,TRUE
+SUP008,Almarai Supplier 8,Packaging,Netherlands,Cairo,9/25/2022 0:00,3,45,TRUE
+SUP009,Almarai Supplier 9,Logistics,Denmark,Istanbul,12/31/2021 0:00,4.7,60,TRUE
+SUP010,Almarai Supplier 10,Logistics,Jordan,Cairo,10/18/2017 0:00,4,45,TRUE
+SUP011,Almarai Supplier 11,Packaging,Turkey,Cairo,4/29/2019 0:00,4.9,45,TRUE
+SUP012,Almarai Supplier 12,Logistics,Denmark,Copenhagen,10/13/2017 0:00,4.9,30,TRUE
+SUP013,Almarai Supplier 13,Packaging,UAE,Rotterdam,3/14/2021 0:00,3.6,90,TRUE
+SUP014,Almarai Supplier 14,Dairy Farm,Turkey,Rotterdam,1/12/2022 0:00,4.5,90,TRUE
+SUP015,Almarai Supplier 15,Feed Supplier,Denmark,Amman,3/25/2022 0:00,4.4,60,TRUE
+SUP016,Almarai Supplier 16,Packaging,Turkey,Cairo,9/19/2020 0:00,4.8,30,TRUE
+SUP017,Almarai Supplier 17,Equipment,UAE,Dubai,11/16/2020 0:00,4.2,45,TRUE
+SUP018,Almarai Supplier 18,Equipment,Saudi Arabia,Dammam,1/25/2019 0:00,4.7,30,TRUE
+SUP019,Almarai Supplier 19,Feed Supplier,Denmark,Copenhagen,1/28/2016 0:00,4.4,45,TRUE
+SUP020,Almarai Supplier 20,Dairy Farm,Turkey,Amman,7/17/2016 0:00,4.1,90,TRUE
+SUP021,Almarai Supplier 21,Feed Supplier,Denmark,Rotterdam,6/24/2016 0:00,3.5,90,TRUE
+SUP022,Almarai Supplier 22,Logistics,Egypt,Copenhagen,3/10/2022 0:00,4.2,45,TRUE
+SUP023,Almarai Supplier 23,Logistics,Netherlands,Istanbul,7/2/2019 0:00,3.4,45,TRUE
+SUP024,Almarai Supplier 24,Dairy Farm,UAE,Istanbul,2/15/2021 0:00,3.2,30,TRUE
+SUP025,Almarai Supplier 25,Equipment,Saudi Arabia,Al Kharj,11/4/2019 0:00,3.6,45,TRUE

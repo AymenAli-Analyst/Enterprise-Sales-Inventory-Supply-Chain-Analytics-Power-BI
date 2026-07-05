@@ -1,0 +1,351 @@
+Customer_ID,Customer_Name,Customer_Type,Region,City,Loyalty_Points,Join_Date,Credit_Limit_SAR,Is_Active
+CUST0001,Customer 1,Retail,Western,Taif,1841,7/10/2019 0:00,10000,TRUE
+CUST0002,Customer 2,Retail,Central,Riyadh,12039,1/4/2024 0:00,5000,TRUE
+CUST0003,Customer 3,Retail,Eastern,Jubail,13121,12/29/2021 0:00,5000,TRUE
+CUST0004,Customer 4,Wholesale,Central,Al Kharj,0,2/23/2020 0:00,25000,TRUE
+CUST0005,Customer 5,Corporate,Central,Al Kharj,0,12/14/2019 0:00,5000,TRUE
+CUST0006,Customer 6,Retail,Southern,Khamis Mushait,4,2/1/2020 0:00,0,TRUE
+CUST0007,Customer 7,Wholesale,Northern,Hail,0,11/10/2024 0:00,0,TRUE
+CUST0008,Customer 8,Corporate,Western,Yanbu,0,8/10/2021 0:00,10000,TRUE
+CUST0009,Customer 9,Retail,Northern,Hail,8932,4/27/2017 0:00,0,TRUE
+CUST0010,Customer 10,Retail,Northern,Tabuk,12921,5/28/2018 0:00,5000,TRUE
+CUST0011,Customer 11,Retail,Central,Riyadh,3343,4/27/2020 0:00,10000,TRUE
+CUST0012,Customer 12,Retail,Southern,Najran,4249,8/7/2021 0:00,0,TRUE
+CUST0013,Customer 13,Retail,Southern,Jazan,11310,10/6/2019 0:00,5000,FALSE
+CUST0014,Customer 14,Retail,Southern,Khamis Mushait,6617,10/16/2023 0:00,25000,TRUE
+CUST0015,Customer 15,Retail,Southern,Najran,14069,10/20/2024 0:00,0,TRUE
+CUST0016,Customer 16,Wholesale,Eastern,Khobar,0,10/13/2019 0:00,10000,TRUE
+CUST0017,Customer 17,Supermarket Chain,Western,Jeddah,0,1/17/2023 0:00,25000,TRUE
+CUST0018,Customer 18,Wholesale,Western,Taif,0,8/15/2019 0:00,5000,FALSE
+CUST0019,Customer 19,Restaurant,Eastern,Dammam,0,12/3/2019 0:00,0,TRUE
+CUST0020,Customer 20,Retail,Western,Jeddah,2082,8/6/2024 0:00,0,TRUE
+CUST0021,Customer 21,Retail,Western,Makkah,417,4/25/2017 0:00,0,TRUE
+CUST0022,Customer 22,Wholesale,Southern,Jazan,0,2/17/2018 0:00,0,TRUE
+CUST0023,Customer 23,Wholesale,Southern,Abha,0,3/8/2022 0:00,10000,TRUE
+CUST0024,Customer 24,Retail,Central,Al Majmaah,5073,10/6/2019 0:00,10000,TRUE
+CUST0025,Customer 25,Retail,Southern,Khamis Mushait,5644,5/16/2023 0:00,10000,TRUE
+CUST0026,Customer 26,Wholesale,Central,Riyadh,0,3/19/2022 0:00,5000,TRUE
+CUST0027,Customer 27,Retail,Eastern,Dammam,14780,3/17/2017 0:00,5000,FALSE
+CUST0028,Customer 28,Retail,Northern,Arar,8335,6/4/2019 0:00,0,TRUE
+CUST0029,Customer 29,Retail,Northern,Arar,3636,3/13/2020 0:00,10000,TRUE
+CUST0030,Customer 30,Retail,Western,Makkah,11486,9/26/2018 0:00,5000,TRUE
+CUST0031,Customer 31,Retail,Eastern,Jubail,6731,8/12/2019 0:00,10000,TRUE
+CUST0032,Customer 32,Retail,Southern,Khamis Mushait,11185,10/13/2024 0:00,10000,TRUE
+CUST0033,Customer 33,Restaurant,Southern,Jazan,0,2/28/2021 0:00,25000,TRUE
+CUST0034,Customer 34,Supermarket Chain,Central,Al Majmaah,0,8/17/2020 0:00,10000,TRUE
+CUST0035,Customer 35,Retail,Eastern,Dammam,10406,4/1/2017 0:00,0,TRUE
+CUST0036,Customer 36,Retail,Eastern,Dammam,9435,12/18/2019 0:00,10000,TRUE
+CUST0037,Customer 37,Corporate,Central,Al Majmaah,0,6/20/2022 0:00,0,TRUE
+CUST0038,Customer 38,Retail,Northern,Tabuk,928,7/23/2019 0:00,5000,TRUE
+CUST0039,Customer 39,Wholesale,Southern,Khamis Mushait,0,3/26/2019 0:00,25000,TRUE
+CUST0040,Customer 40,Retail,Eastern,Al Ahsa,9442,8/10/2021 0:00,50000,TRUE
+CUST0041,Customer 41,Wholesale,Central,Riyadh,0,10/28/2020 0:00,10000,TRUE
+CUST0042,Customer 42,Retail,Central,Al Majmaah,10975,10/2/2024 0:00,25000,TRUE
+CUST0043,Customer 43,Retail,Northern,Tabuk,13659,6/16/2024 0:00,5000,TRUE
+CUST0044,Customer 44,Retail,Western,Yanbu,12328,1/10/2019 0:00,50000,TRUE
+CUST0045,Customer 45,Retail,Central,Riyadh,7891,11/14/2023 0:00,10000,TRUE
+CUST0046,Customer 46,Supermarket Chain,Eastern,Dammam,0,1/9/2025 0:00,10000,TRUE
+CUST0047,Customer 47,Supermarket Chain,Western,Makkah,0,5/27/2019 0:00,0,TRUE
+CUST0048,Customer 48,Restaurant,Central,Al Kharj,0,2/3/2023 0:00,5000,TRUE
+CUST0049,Customer 49,Corporate,Central,Al Kharj,0,11/20/2018 0:00,25000,TRUE
+CUST0050,Customer 50,Retail,Eastern,Jubail,8175,11/10/2024 0:00,25000,TRUE
+CUST0051,Customer 51,Supermarket Chain,Southern,Jazan,0,5/3/2025 0:00,10000,TRUE
+CUST0052,Customer 52,Retail,Eastern,Dammam,6600,3/17/2022 0:00,0,TRUE
+CUST0053,Customer 53,Supermarket Chain,Northern,Hail,0,5/3/2018 0:00,10000,TRUE
+CUST0054,Customer 54,Wholesale,Western,Makkah,0,12/6/2022 0:00,25000,TRUE
+CUST0055,Customer 55,Restaurant,Central,Al Kharj,0,4/26/2025 0:00,25000,TRUE
+CUST0056,Customer 56,Wholesale,Southern,Abha,0,10/24/2022 0:00,0,TRUE
+CUST0057,Customer 57,Retail,Northern,Hail,6241,10/16/2024 0:00,5000,TRUE
+CUST0058,Customer 58,Wholesale,Western,Yanbu,0,4/20/2025 0:00,25000,TRUE
+CUST0059,Customer 59,Wholesale,Western,Taif,0,3/8/2019 0:00,0,FALSE
+CUST0060,Customer 60,Retail,Western,Jeddah,11223,3/10/2017 0:00,50000,TRUE
+CUST0061,Customer 61,Wholesale,Southern,Jazan,0,3/22/2022 0:00,5000,TRUE
+CUST0062,Customer 62,Wholesale,Eastern,Khobar,0,6/19/2019 0:00,0,TRUE
+CUST0063,Customer 63,Retail,Eastern,Al Ahsa,4188,11/3/2018 0:00,0,TRUE
+CUST0064,Customer 64,Retail,Eastern,Dammam,12891,11/13/2018 0:00,0,TRUE
+CUST0065,Customer 65,Retail,Central,Riyadh,2393,2/7/2024 0:00,0,TRUE
+CUST0066,Customer 66,Retail,Eastern,Dammam,6190,2/19/2020 0:00,10000,TRUE
+CUST0067,Customer 67,Retail,Eastern,Jubail,4432,11/16/2019 0:00,25000,TRUE
+CUST0068,Customer 68,Restaurant,Eastern,Dammam,0,10/30/2017 0:00,5000,TRUE
+CUST0069,Customer 69,Retail,Western,Yanbu,11479,12/31/2017 0:00,0,TRUE
+CUST0070,Customer 70,Wholesale,Eastern,Jubail,0,7/8/2019 0:00,5000,TRUE
+CUST0071,Customer 71,Retail,Southern,Jazan,6882,3/22/2022 0:00,0,TRUE
+CUST0072,Customer 72,Retail,Southern,Khamis Mushait,1976,7/20/2020 0:00,0,TRUE
+CUST0073,Customer 73,Supermarket Chain,Northern,Tabuk,0,9/4/2022 0:00,10000,TRUE
+CUST0074,Customer 74,Retail,Southern,Jazan,4206,2/2/2021 0:00,5000,TRUE
+CUST0075,Customer 75,Retail,Central,Al Majmaah,10852,3/22/2021 0:00,25000,TRUE
+CUST0076,Customer 76,Retail,Eastern,Al Ahsa,14277,8/5/2020 0:00,0,TRUE
+CUST0077,Customer 77,Retail,Northern,Hail,10589,6/19/2021 0:00,0,TRUE
+CUST0078,Customer 78,Retail,Eastern,Jubail,4324,2/9/2024 0:00,50000,TRUE
+CUST0079,Customer 79,Supermarket Chain,Northern,Al Jouf,0,2/14/2022 0:00,25000,TRUE
+CUST0080,Customer 80,Supermarket Chain,Eastern,Khobar,0,4/27/2019 0:00,5000,TRUE
+CUST0081,Customer 81,Retail,Southern,Khamis Mushait,13721,2/16/2020 0:00,10000,TRUE
+CUST0082,Customer 82,Wholesale,Northern,Tabuk,0,8/11/2022 0:00,10000,TRUE
+CUST0083,Customer 83,Retail,Southern,Jazan,6988,7/20/2022 0:00,5000,TRUE
+CUST0084,Customer 84,Retail,Western,Jeddah,2219,1/24/2025 0:00,5000,TRUE
+CUST0085,Customer 85,Wholesale,Central,Al Majmaah,0,10/3/2024 0:00,0,TRUE
+CUST0086,Customer 86,Retail,Eastern,Khobar,1604,6/24/2023 0:00,10000,TRUE
+CUST0087,Customer 87,Restaurant,Southern,Khamis Mushait,0,3/20/2024 0:00,5000,FALSE
+CUST0088,Customer 88,Corporate,Northern,Al Jouf,0,5/23/2019 0:00,10000,TRUE
+CUST0089,Customer 89,Retail,Eastern,Dammam,2898,3/19/2017 0:00,5000,TRUE
+CUST0090,Customer 90,Retail,Southern,Jazan,10535,2/7/2022 0:00,5000,TRUE
+CUST0091,Customer 91,Retail,Eastern,Dammam,5142,7/29/2018 0:00,5000,TRUE
+CUST0092,Customer 92,Retail,Central,Al Majmaah,1997,4/1/2019 0:00,25000,TRUE
+CUST0093,Customer 93,Supermarket Chain,Eastern,Khobar,0,9/5/2023 0:00,10000,TRUE
+CUST0094,Customer 94,Supermarket Chain,Northern,Arar,0,8/5/2020 0:00,5000,TRUE
+CUST0095,Customer 95,Retail,Northern,Tabuk,1120,5/27/2025 0:00,0,TRUE
+CUST0096,Customer 96,Corporate,Northern,Hail,0,6/1/2018 0:00,25000,TRUE
+CUST0097,Customer 97,Retail,Southern,Najran,14188,3/14/2023 0:00,10000,TRUE
+CUST0098,Customer 98,Retail,Southern,Abha,2891,5/10/2017 0:00,0,TRUE
+CUST0099,Customer 99,Corporate,Northern,Al Jouf,0,10/18/2022 0:00,25000,FALSE
+CUST0100,Customer 100,Wholesale,Western,Makkah,0,3/16/2023 0:00,5000,TRUE
+CUST0101,Customer 101,Retail,Central,Riyadh,827,6/23/2024 0:00,25000,TRUE
+CUST0102,Customer 102,Supermarket Chain,Northern,Tabuk,0,2/7/2022 0:00,10000,TRUE
+CUST0103,Customer 103,Retail,Western,Jeddah,7196,9/27/2024 0:00,5000,TRUE
+CUST0104,Customer 104,Corporate,Southern,Jazan,0,4/20/2020 0:00,25000,TRUE
+CUST0105,Customer 105,Wholesale,Eastern,Al Ahsa,0,4/5/2025 0:00,10000,TRUE
+CUST0106,Customer 106,Wholesale,Central,Riyadh,0,7/29/2018 0:00,5000,TRUE
+CUST0107,Customer 107,Retail,Western,Taif,8609,7/23/2023 0:00,5000,TRUE
+CUST0108,Customer 108,Retail,Northern,Arar,12951,1/25/2017 0:00,5000,TRUE
+CUST0109,Customer 109,Corporate,Central,Riyadh,0,9/30/2019 0:00,10000,TRUE
+CUST0110,Customer 110,Retail,Southern,Abha,13395,11/20/2018 0:00,5000,TRUE
+CUST0111,Customer 111,Wholesale,Southern,Khamis Mushait,0,11/28/2021 0:00,5000,TRUE
+CUST0112,Customer 112,Corporate,Eastern,Jubail,0,9/11/2022 0:00,5000,TRUE
+CUST0113,Customer 113,Corporate,Southern,Jazan,0,8/28/2022 0:00,0,TRUE
+CUST0114,Customer 114,Wholesale,Western,Makkah,0,2/11/2020 0:00,5000,TRUE
+CUST0115,Customer 115,Retail,Northern,Tabuk,12342,3/11/2019 0:00,0,TRUE
+CUST0116,Customer 116,Corporate,Western,Yanbu,0,2/24/2017 0:00,0,TRUE
+CUST0117,Customer 117,Retail,Southern,Khamis Mushait,10998,2/2/2022 0:00,0,TRUE
+CUST0118,Customer 118,Retail,Southern,Khamis Mushait,3310,3/11/2024 0:00,25000,TRUE
+CUST0119,Customer 119,Retail,Western,Taif,9503,11/1/2024 0:00,25000,TRUE
+CUST0120,Customer 120,Retail,Southern,Jazan,822,8/2/2019 0:00,0,TRUE
+CUST0121,Customer 121,Corporate,Central,Al Majmaah,0,7/4/2019 0:00,5000,TRUE
+CUST0122,Customer 122,Corporate,Western,Jeddah,0,4/24/2022 0:00,5000,TRUE
+CUST0123,Customer 123,Retail,Eastern,Jubail,1555,4/28/2023 0:00,5000,TRUE
+CUST0124,Customer 124,Supermarket Chain,Central,Al Kharj,0,3/6/2022 0:00,25000,TRUE
+CUST0125,Customer 125,Wholesale,Central,Al Kharj,0,10/8/2022 0:00,25000,TRUE
+CUST0126,Customer 126,Retail,Central,Al Kharj,2573,6/5/2018 0:00,5000,TRUE
+CUST0127,Customer 127,Wholesale,Central,Al Kharj,0,12/17/2023 0:00,50000,TRUE
+CUST0128,Customer 128,Retail,Southern,Jazan,74,11/25/2024 0:00,25000,TRUE
+CUST0129,Customer 129,Retail,Northern,Tabuk,7184,8/28/2021 0:00,10000,TRUE
+CUST0130,Customer 130,Retail,Southern,Jazan,2074,10/8/2018 0:00,10000,TRUE
+CUST0131,Customer 131,Retail,Southern,Abha,11145,9/5/2021 0:00,25000,TRUE
+CUST0132,Customer 132,Retail,Western,Makkah,3067,1/20/2022 0:00,10000,TRUE
+CUST0133,Customer 133,Retail,Northern,Arar,8340,8/12/2020 0:00,5000,TRUE
+CUST0134,Customer 134,Wholesale,Eastern,Jubail,0,8/26/2020 0:00,5000,TRUE
+CUST0135,Customer 135,Retail,Southern,Khamis Mushait,7715,1/21/2019 0:00,0,TRUE
+CUST0136,Customer 136,Retail,Eastern,Dammam,12652,7/20/2022 0:00,5000,TRUE
+CUST0137,Customer 137,Retail,Southern,Abha,5136,7/23/2021 0:00,5000,TRUE
+CUST0138,Customer 138,Retail,Western,Jeddah,12418,6/6/2020 0:00,0,FALSE
+CUST0139,Customer 139,Retail,Western,Yanbu,11307,11/4/2024 0:00,0,FALSE
+CUST0140,Customer 140,Retail,Central,Al Majmaah,11855,8/4/2017 0:00,10000,TRUE
+CUST0141,Customer 141,Corporate,Central,Al Majmaah,0,4/12/2025 0:00,25000,TRUE
+CUST0142,Customer 142,Wholesale,Central,Al Majmaah,0,5/4/2018 0:00,25000,TRUE
+CUST0143,Customer 143,Supermarket Chain,Western,Yanbu,0,12/23/2021 0:00,5000,TRUE
+CUST0144,Customer 144,Retail,Southern,Najran,8007,3/2/2021 0:00,5000,TRUE
+CUST0145,Customer 145,Retail,Northern,Arar,1466,9/7/2018 0:00,0,TRUE
+CUST0146,Customer 146,Retail,Eastern,Al Ahsa,13409,5/11/2017 0:00,10000,TRUE
+CUST0147,Customer 147,Retail,Northern,Arar,6640,10/4/2020 0:00,10000,TRUE
+CUST0148,Customer 148,Wholesale,Central,Riyadh,0,1/20/2025 0:00,5000,TRUE
+CUST0149,Customer 149,Retail,Western,Makkah,9996,7/21/2020 0:00,25000,TRUE
+CUST0150,Customer 150,Corporate,Northern,Tabuk,0,4/22/2018 0:00,0,TRUE
+CUST0151,Customer 151,Retail,Northern,Arar,7069,7/10/2019 0:00,5000,TRUE
+CUST0152,Customer 152,Retail,Central,Al Kharj,11692,3/11/2020 0:00,0,TRUE
+CUST0153,Customer 153,Wholesale,Western,Makkah,0,3/8/2018 0:00,0,FALSE
+CUST0154,Customer 154,Retail,Central,Al Majmaah,7511,8/22/2019 0:00,0,FALSE
+CUST0155,Customer 155,Retail,Southern,Abha,4805,3/18/2019 0:00,25000,FALSE
+CUST0156,Customer 156,Wholesale,Eastern,Khobar,0,2/25/2024 0:00,0,TRUE
+CUST0157,Customer 157,Retail,Southern,Najran,3564,10/21/2020 0:00,0,TRUE
+CUST0158,Customer 158,Retail,Western,Jeddah,6402,3/27/2022 0:00,5000,TRUE
+CUST0159,Customer 159,Supermarket Chain,Central,Riyadh,0,3/29/2022 0:00,5000,TRUE
+CUST0160,Customer 160,Retail,Eastern,Khobar,7312,3/14/2023 0:00,25000,TRUE
+CUST0161,Customer 161,Corporate,Southern,Khamis Mushait,0,7/5/2023 0:00,25000,TRUE
+CUST0162,Customer 162,Retail,Eastern,Dammam,10874,9/15/2019 0:00,5000,TRUE
+CUST0163,Customer 163,Retail,Western,Yanbu,13774,2/9/2017 0:00,25000,TRUE
+CUST0164,Customer 164,Retail,Western,Yanbu,4133,7/4/2023 0:00,10000,TRUE
+CUST0165,Customer 165,Restaurant,Western,Makkah,0,9/8/2021 0:00,10000,TRUE
+CUST0166,Customer 166,Retail,Central,Al Kharj,14559,11/14/2017 0:00,5000,TRUE
+CUST0167,Customer 167,Wholesale,Western,Yanbu,0,11/8/2021 0:00,10000,TRUE
+CUST0168,Customer 168,Retail,Northern,Tabuk,1704,9/29/2024 0:00,25000,TRUE
+CUST0169,Customer 169,Wholesale,Western,Yanbu,0,10/6/2023 0:00,0,TRUE
+CUST0170,Customer 170,Retail,Southern,Jazan,5150,1/27/2024 0:00,0,TRUE
+CUST0171,Customer 171,Supermarket Chain,Southern,Jazan,0,10/31/2022 0:00,25000,TRUE
+CUST0172,Customer 172,Retail,Southern,Khamis Mushait,5343,3/29/2021 0:00,10000,FALSE
+CUST0173,Customer 173,Retail,Central,Al Majmaah,4543,12/13/2024 0:00,25000,TRUE
+CUST0174,Customer 174,Retail,Eastern,Khobar,5352,6/1/2020 0:00,25000,TRUE
+CUST0175,Customer 175,Corporate,Southern,Abha,0,2/11/2025 0:00,10000,TRUE
+CUST0176,Customer 176,Corporate,Eastern,Al Ahsa,0,7/7/2019 0:00,10000,TRUE
+CUST0177,Customer 177,Retail,Western,Yanbu,2353,12/5/2018 0:00,10000,TRUE
+CUST0178,Customer 178,Wholesale,Eastern,Jubail,0,11/13/2023 0:00,0,TRUE
+CUST0179,Customer 179,Wholesale,Eastern,Jubail,0,12/24/2020 0:00,5000,FALSE
+CUST0180,Customer 180,Supermarket Chain,Eastern,Dammam,0,6/6/2019 0:00,25000,TRUE
+CUST0181,Customer 181,Wholesale,Western,Taif,0,4/12/2021 0:00,25000,FALSE
+CUST0182,Customer 182,Supermarket Chain,Northern,Tabuk,0,5/19/2019 0:00,10000,TRUE
+CUST0183,Customer 183,Restaurant,Central,Riyadh,0,7/24/2018 0:00,25000,TRUE
+CUST0184,Customer 184,Retail,Southern,Najran,8984,3/3/2019 0:00,5000,TRUE
+CUST0185,Customer 185,Retail,Eastern,Al Ahsa,984,8/8/2021 0:00,0,TRUE
+CUST0186,Customer 186,Wholesale,Eastern,Khobar,0,2/25/2023 0:00,10000,TRUE
+CUST0187,Customer 187,Supermarket Chain,Southern,Khamis Mushait,0,1/25/2025 0:00,0,TRUE
+CUST0188,Customer 188,Wholesale,Central,Al Kharj,0,10/30/2021 0:00,5000,TRUE
+CUST0189,Customer 189,Wholesale,Northern,Arar,0,12/24/2023 0:00,0,TRUE
+CUST0190,Customer 190,Retail,Eastern,Al Ahsa,4167,10/1/2017 0:00,10000,TRUE
+CUST0191,Customer 191,Corporate,Eastern,Dammam,0,8/6/2022 0:00,10000,TRUE
+CUST0192,Customer 192,Retail,Eastern,Al Ahsa,6731,1/15/2025 0:00,5000,TRUE
+CUST0193,Customer 193,Retail,Northern,Al Jouf,9127,5/6/2022 0:00,25000,TRUE
+CUST0194,Customer 194,Supermarket Chain,Central,Riyadh,0,5/4/2022 0:00,0,TRUE
+CUST0195,Customer 195,Wholesale,Western,Makkah,0,9/6/2021 0:00,10000,TRUE
+CUST0196,Customer 196,Wholesale,Western,Taif,0,3/11/2022 0:00,10000,TRUE
+CUST0197,Customer 197,Wholesale,Central,Al Kharj,0,3/21/2023 0:00,5000,TRUE
+CUST0198,Customer 198,Corporate,Western,Yanbu,0,9/3/2020 0:00,10000,TRUE
+CUST0199,Customer 199,Wholesale,Eastern,Al Ahsa,0,1/22/2017 0:00,5000,TRUE
+CUST0200,Customer 200,Retail,Central,Al Kharj,7179,11/5/2022 0:00,10000,TRUE
+CUST0201,Customer 201,Retail,Eastern,Khobar,8941,11/16/2018 0:00,0,TRUE
+CUST0202,Customer 202,Wholesale,Eastern,Al Ahsa,0,2/9/2025 0:00,10000,TRUE
+CUST0203,Customer 203,Wholesale,Central,Al Majmaah,0,10/4/2021 0:00,5000,TRUE
+CUST0204,Customer 204,Retail,Central,Al Majmaah,7005,10/15/2021 0:00,10000,TRUE
+CUST0205,Customer 205,Retail,Northern,Tabuk,9579,1/24/2024 0:00,5000,TRUE
+CUST0206,Customer 206,Wholesale,Eastern,Al Ahsa,0,6/27/2020 0:00,10000,TRUE
+CUST0207,Customer 207,Supermarket Chain,Western,Taif,0,12/3/2021 0:00,10000,FALSE
+CUST0208,Customer 208,Retail,Western,Makkah,3714,6/14/2018 0:00,10000,TRUE
+CUST0209,Customer 209,Corporate,Eastern,Khobar,0,8/31/2024 0:00,10000,TRUE
+CUST0210,Customer 210,Retail,Western,Taif,12197,5/11/2025 0:00,5000,TRUE
+CUST0211,Customer 211,Wholesale,Southern,Najran,0,3/29/2023 0:00,5000,TRUE
+CUST0212,Customer 212,Retail,Central,Al Majmaah,8219,10/15/2022 0:00,25000,TRUE
+CUST0213,Customer 213,Retail,Central,Riyadh,6430,9/22/2018 0:00,0,TRUE
+CUST0214,Customer 214,Corporate,Western,Yanbu,0,7/4/2020 0:00,5000,TRUE
+CUST0215,Customer 215,Retail,Northern,Tabuk,7029,6/27/2022 0:00,5000,TRUE
+CUST0216,Customer 216,Retail,Southern,Khamis Mushait,3568,7/14/2021 0:00,25000,TRUE
+CUST0217,Customer 217,Retail,Northern,Arar,3953,7/10/2023 0:00,0,TRUE
+CUST0218,Customer 218,Retail,Northern,Hail,6262,11/25/2019 0:00,5000,FALSE
+CUST0219,Customer 219,Wholesale,Southern,Abha,0,5/14/2020 0:00,10000,TRUE
+CUST0220,Customer 220,Wholesale,Western,Yanbu,0,5/6/2017 0:00,50000,TRUE
+CUST0221,Customer 221,Retail,Central,Al Majmaah,6638,10/11/2023 0:00,5000,TRUE
+CUST0222,Customer 222,Retail,Northern,Arar,12595,9/21/2020 0:00,25000,TRUE
+CUST0223,Customer 223,Retail,Western,Jeddah,9991,6/9/2024 0:00,5000,TRUE
+CUST0224,Customer 224,Corporate,Western,Jeddah,0,10/11/2023 0:00,10000,TRUE
+CUST0225,Customer 225,Supermarket Chain,Central,Al Kharj,0,8/23/2024 0:00,10000,TRUE
+CUST0226,Customer 226,Supermarket Chain,Central,Al Kharj,0,5/31/2025 0:00,0,TRUE
+CUST0227,Customer 227,Wholesale,Southern,Khamis Mushait,0,10/7/2019 0:00,10000,TRUE
+CUST0228,Customer 228,Restaurant,Central,Riyadh,0,9/29/2024 0:00,10000,TRUE
+CUST0229,Customer 229,Supermarket Chain,Central,Al Majmaah,0,5/9/2018 0:00,25000,TRUE
+CUST0230,Customer 230,Supermarket Chain,Western,Makkah,0,5/1/2019 0:00,25000,TRUE
+CUST0231,Customer 231,Retail,Central,Riyadh,11339,12/12/2018 0:00,5000,TRUE
+CUST0232,Customer 232,Wholesale,Southern,Abha,0,1/6/2019 0:00,5000,TRUE
+CUST0233,Customer 233,Wholesale,Western,Taif,0,4/10/2025 0:00,10000,TRUE
+CUST0234,Customer 234,Supermarket Chain,Eastern,Dammam,0,11/3/2024 0:00,25000,TRUE
+CUST0235,Customer 235,Retail,Southern,Jazan,5252,10/31/2017 0:00,5000,TRUE
+CUST0236,Customer 236,Wholesale,Eastern,Al Ahsa,0,12/21/2023 0:00,10000,TRUE
+CUST0237,Customer 237,Retail,Southern,Najran,4431,1/13/2022 0:00,0,FALSE
+CUST0238,Customer 238,Retail,Northern,Arar,12611,2/28/2019 0:00,5000,TRUE
+CUST0239,Customer 239,Retail,Southern,Khamis Mushait,11827,12/17/2023 0:00,5000,TRUE
+CUST0240,Customer 240,Retail,Eastern,Al Ahsa,5539,6/10/2024 0:00,10000,TRUE
+CUST0241,Customer 241,Retail,Northern,Hail,3530,7/10/2020 0:00,10000,TRUE
+CUST0242,Customer 242,Corporate,Southern,Najran,0,6/18/2023 0:00,10000,TRUE
+CUST0243,Customer 243,Retail,Northern,Al Jouf,1798,1/20/2022 0:00,5000,TRUE
+CUST0244,Customer 244,Restaurant,Western,Taif,0,1/13/2025 0:00,10000,TRUE
+CUST0245,Customer 245,Corporate,Northern,Tabuk,0,12/12/2021 0:00,10000,TRUE
+CUST0246,Customer 246,Supermarket Chain,Southern,Jazan,0,12/21/2018 0:00,5000,TRUE
+CUST0247,Customer 247,Corporate,Northern,Hail,0,12/14/2024 0:00,0,TRUE
+CUST0248,Customer 248,Wholesale,Central,Al Majmaah,0,6/27/2024 0:00,0,TRUE
+CUST0249,Customer 249,Wholesale,Central,Al Majmaah,0,10/24/2018 0:00,0,TRUE
+CUST0250,Customer 250,Wholesale,Northern,Arar,0,10/12/2018 0:00,0,TRUE
+CUST0251,Customer 251,Retail,Central,Al Kharj,1343,1/1/2022 0:00,5000,TRUE
+CUST0252,Customer 252,Retail,Western,Makkah,12200,11/12/2023 0:00,50000,TRUE
+CUST0253,Customer 253,Corporate,Eastern,Al Ahsa,0,2/15/2024 0:00,25000,TRUE
+CUST0254,Customer 254,Wholesale,Northern,Al Jouf,0,4/7/2022 0:00,5000,TRUE
+CUST0255,Customer 255,Retail,Central,Al Majmaah,6704,11/15/2024 0:00,0,TRUE
+CUST0256,Customer 256,Wholesale,Eastern,Al Ahsa,0,10/2/2021 0:00,10000,TRUE
+CUST0257,Customer 257,Retail,Southern,Jazan,5249,8/6/2024 0:00,5000,TRUE
+CUST0258,Customer 258,Retail,Eastern,Khobar,4211,10/24/2018 0:00,5000,FALSE
+CUST0259,Customer 259,Wholesale,Southern,Abha,0,10/14/2019 0:00,0,TRUE
+CUST0260,Customer 260,Corporate,Central,Al Majmaah,0,10/19/2018 0:00,5000,FALSE
+CUST0261,Customer 261,Retail,Eastern,Al Ahsa,7446,12/14/2017 0:00,50000,TRUE
+CUST0262,Customer 262,Corporate,Northern,Al Jouf,0,6/27/2023 0:00,25000,TRUE
+CUST0263,Customer 263,Corporate,Western,Yanbu,0,3/30/2020 0:00,10000,TRUE
+CUST0264,Customer 264,Retail,Northern,Hail,4576,8/14/2021 0:00,0,TRUE
+CUST0265,Customer 265,Supermarket Chain,Southern,Jazan,0,4/5/2025 0:00,5000,TRUE
+CUST0266,Customer 266,Supermarket Chain,Western,Yanbu,0,9/19/2017 0:00,25000,TRUE
+CUST0267,Customer 267,Retail,Northern,Tabuk,4107,7/15/2018 0:00,0,TRUE
+CUST0268,Customer 268,Supermarket Chain,Eastern,Khobar,0,8/21/2021 0:00,10000,TRUE
+CUST0269,Customer 269,Retail,Northern,Hail,13716,3/10/2024 0:00,0,TRUE
+CUST0270,Customer 270,Wholesale,Northern,Hail,0,4/10/2021 0:00,5000,TRUE
+CUST0271,Customer 271,Retail,Central,Al Majmaah,9325,7/12/2023 0:00,10000,TRUE
+CUST0272,Customer 272,Retail,Eastern,Jubail,1048,8/4/2021 0:00,5000,TRUE
+CUST0273,Customer 273,Retail,Western,Yanbu,13891,6/3/2022 0:00,10000,TRUE
+CUST0274,Customer 274,Supermarket Chain,Northern,Tabuk,0,8/9/2021 0:00,0,TRUE
+CUST0275,Customer 275,Wholesale,Southern,Najran,0,12/20/2019 0:00,5000,TRUE
+CUST0276,Customer 276,Retail,Southern,Najran,6488,10/4/2018 0:00,5000,TRUE
+CUST0277,Customer 277,Retail,Central,Al Majmaah,13410,5/29/2017 0:00,0,TRUE
+CUST0278,Customer 278,Wholesale,Eastern,Jubail,0,9/12/2024 0:00,10000,TRUE
+CUST0279,Customer 279,Wholesale,Central,Riyadh,0,3/31/2019 0:00,0,TRUE
+CUST0280,Customer 280,Corporate,Western,Taif,0,5/17/2021 0:00,10000,TRUE
+CUST0281,Customer 281,Retail,Eastern,Al Ahsa,14790,10/31/2021 0:00,5000,FALSE
+CUST0282,Customer 282,Retail,Western,Makkah,2293,1/12/2019 0:00,0,TRUE
+CUST0283,Customer 283,Wholesale,Western,Yanbu,0,10/14/2022 0:00,5000,TRUE
+CUST0284,Customer 284,Retail,Southern,Abha,14308,6/22/2017 0:00,0,TRUE
+CUST0285,Customer 285,Retail,Central,Al Majmaah,2355,11/27/2021 0:00,0,TRUE
+CUST0286,Customer 286,Retail,Northern,Hail,12027,8/17/2018 0:00,5000,TRUE
+CUST0287,Customer 287,Retail,Northern,Tabuk,6164,2/15/2024 0:00,25000,FALSE
+CUST0288,Customer 288,Supermarket Chain,Central,Riyadh,0,7/26/2018 0:00,0,TRUE
+CUST0289,Customer 289,Retail,Western,Makkah,2279,2/28/2019 0:00,25000,TRUE
+CUST0290,Customer 290,Wholesale,Eastern,Khobar,0,3/20/2017 0:00,25000,TRUE
+CUST0291,Customer 291,Retail,Southern,Najran,7083,11/2/2023 0:00,5000,TRUE
+CUST0292,Customer 292,Corporate,Central,Al Majmaah,0,2/12/2018 0:00,0,TRUE
+CUST0293,Customer 293,Retail,Northern,Tabuk,10142,1/1/2018 0:00,50000,FALSE
+CUST0294,Customer 294,Corporate,Eastern,Jubail,0,7/17/2018 0:00,0,TRUE
+CUST0295,Customer 295,Retail,Western,Makkah,6511,5/31/2020 0:00,10000,TRUE
+CUST0296,Customer 296,Wholesale,Central,Al Kharj,0,8/21/2019 0:00,0,TRUE
+CUST0297,Customer 297,Restaurant,Central,Riyadh,0,4/29/2017 0:00,0,FALSE
+CUST0298,Customer 298,Retail,Southern,Khamis Mushait,5607,2/9/2019 0:00,10000,TRUE
+CUST0299,Customer 299,Retail,Northern,Hail,13070,5/10/2023 0:00,25000,TRUE
+CUST0300,Customer 300,Wholesale,Central,Al Majmaah,0,4/21/2025 0:00,0,TRUE
+CUST0301,Customer 301,Wholesale,Northern,Tabuk,0,11/17/2018 0:00,0,FALSE
+CUST0302,Customer 302,Retail,Western,Yanbu,38,12/20/2023 0:00,0,TRUE
+CUST0303,Customer 303,Retail,Southern,Abha,14215,10/29/2017 0:00,10000,TRUE
+CUST0304,Customer 304,Retail,Northern,Al Jouf,8789,10/24/2018 0:00,50000,FALSE
+CUST0305,Customer 305,Retail,Southern,Abha,14876,8/1/2017 0:00,10000,TRUE
+CUST0306,Customer 306,Corporate,Eastern,Jubail,0,4/6/2018 0:00,5000,TRUE
+CUST0307,Customer 307,Retail,Central,Al Majmaah,2066,1/23/2017 0:00,10000,TRUE
+CUST0308,Customer 308,Retail,Central,Riyadh,8553,12/17/2022 0:00,10000,TRUE
+CUST0309,Customer 309,Retail,Northern,Al Jouf,10047,5/24/2019 0:00,10000,TRUE
+CUST0310,Customer 310,Corporate,Southern,Khamis Mushait,0,10/21/2021 0:00,0,TRUE
+CUST0311,Customer 311,Wholesale,Southern,Abha,0,3/30/2024 0:00,25000,TRUE
+CUST0312,Customer 312,Retail,Northern,Tabuk,13944,3/19/2024 0:00,10000,TRUE
+CUST0313,Customer 313,Retail,Eastern,Dammam,9596,3/1/2020 0:00,10000,TRUE
+CUST0314,Customer 314,Retail,Eastern,Khobar,5588,4/2/2019 0:00,10000,TRUE
+CUST0315,Customer 315,Corporate,Northern,Al Jouf,0,5/10/2023 0:00,5000,TRUE
+CUST0316,Customer 316,Retail,Eastern,Al Ahsa,6841,12/15/2019 0:00,10000,TRUE
+CUST0317,Customer 317,Corporate,Western,Makkah,0,1/16/2023 0:00,0,TRUE
+CUST0318,Customer 318,Wholesale,Eastern,Khobar,0,1/5/2020 0:00,10000,TRUE
+CUST0319,Customer 319,Wholesale,Northern,Al Jouf,0,1/10/2019 0:00,0,TRUE
+CUST0320,Customer 320,Retail,Central,Al Kharj,1136,9/11/2024 0:00,25000,TRUE
+CUST0321,Customer 321,Wholesale,Central,Al Kharj,0,9/15/2023 0:00,10000,TRUE
+CUST0322,Customer 322,Retail,Eastern,Jubail,2125,12/12/2022 0:00,5000,TRUE
+CUST0323,Customer 323,Wholesale,Southern,Abha,0,5/18/2017 0:00,5000,TRUE
+CUST0324,Customer 324,Corporate,Central,Al Kharj,0,7/22/2022 0:00,10000,FALSE
+CUST0325,Customer 325,Retail,Eastern,Dammam,8738,7/11/2019 0:00,25000,TRUE
+CUST0326,Customer 326,Corporate,Southern,Khamis Mushait,0,12/5/2018 0:00,5000,TRUE
+CUST0327,Customer 327,Corporate,Northern,Hail,0,10/7/2019 0:00,25000,TRUE
+CUST0328,Customer 328,Retail,Northern,Hail,685,1/26/2022 0:00,0,TRUE
+CUST0329,Customer 329,Retail,Northern,Al Jouf,6868,2/21/2025 0:00,0,TRUE
+CUST0330,Customer 330,Retail,Northern,Arar,3291,9/27/2017 0:00,0,TRUE
+CUST0331,Customer 331,Corporate,Western,Jeddah,0,4/29/2021 0:00,0,TRUE
+CUST0332,Customer 332,Wholesale,Eastern,Al Ahsa,0,5/25/2019 0:00,0,TRUE
+CUST0333,Customer 333,Retail,Central,Al Majmaah,14974,11/23/2020 0:00,0,TRUE
+CUST0334,Customer 334,Wholesale,Northern,Al Jouf,0,2/25/2023 0:00,5000,TRUE
+CUST0335,Customer 335,Restaurant,Central,Riyadh,0,1/11/2020 0:00,0,TRUE
+CUST0336,Customer 336,Retail,Southern,Khamis Mushait,8562,2/24/2022 0:00,25000,FALSE
+CUST0337,Customer 337,Retail,Southern,Abha,12916,6/14/2019 0:00,0,TRUE
+CUST0338,Customer 338,Restaurant,Central,Riyadh,0,7/27/2018 0:00,25000,TRUE
+CUST0339,Customer 339,Corporate,Central,Al Majmaah,0,6/13/2018 0:00,10000,TRUE
+CUST0340,Customer 340,Retail,Western,Jeddah,11780,3/18/2021 0:00,10000,TRUE
+CUST0341,Customer 341,Supermarket Chain,Western,Makkah,0,3/11/2018 0:00,10000,TRUE
+CUST0342,Customer 342,Retail,Northern,Arar,1727,4/10/2023 0:00,10000,TRUE
+CUST0343,Customer 343,Wholesale,Southern,Khamis Mushait,0,12/28/2019 0:00,10000,TRUE
+CUST0344,Customer 344,Supermarket Chain,Southern,Najran,0,4/5/2024 0:00,0,FALSE
+CUST0345,Customer 345,Corporate,Western,Yanbu,0,3/23/2018 0:00,5000,TRUE
+CUST0346,Customer 346,Retail,Eastern,Al Ahsa,1577,10/9/2019 0:00,10000,TRUE
+CUST0347,Customer 347,Retail,Central,Al Majmaah,6852,11/3/2017 0:00,0,TRUE
+CUST0348,Customer 348,Corporate,Northern,Al Jouf,0,4/30/2018 0:00,10000,TRUE
+CUST0349,Customer 349,Retail,Western,Makkah,3525,8/31/2023 0:00,5000,TRUE
+CUST0350,Customer 350,Retail,Eastern,Jubail,4135,12/9/2023 0:00,0,TRUE
