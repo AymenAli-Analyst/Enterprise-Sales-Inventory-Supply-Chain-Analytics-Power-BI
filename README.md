@@ -118,7 +118,8 @@ Operational dashboard focusing on inventory efficiency:
 
 ## 👥 Sales & Customer Analytics
 
-![Sales Dashboard](<img width="1020" height="646" alt="image" src="https://github.com/user-attachments/assets/a256b7ee-8b9f-417f-a073-0eded3e25bc4" />
+![Sales Dashboard](<<img width="1020" height="646" alt="image" src="https://github.com/user-attachments/assets/8e4e02d1-cb6a-45fe-9b9e-8da8bb5255d3" />
+
 )
 
 ---
