@@ -133,7 +133,8 @@ Operational dashboard focusing on inventory efficiency:
 
 ## 🚚 Inventory & Supply Chain Analytics
 
-![Inventory Dashboard](<img width="1021" height="645" alt="image" src="https://github.com/user-attachments/assets/93ad8ee6-4c9e-448c-95bd-b6182a45ed5d" />
+![Inventory Dashboard](<img width="1021" height="645" alt="image" src="https://github.com/user-attachments/assets/be2f505b-b94e-4e3a-9c1f-5b3c13ecee6c" />
+
 )
 
 ---
