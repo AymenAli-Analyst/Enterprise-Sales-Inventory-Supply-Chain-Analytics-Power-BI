@@ -110,7 +110,8 @@ Operational dashboard focusing on inventory efficiency:
 
 ## 🏠 Executive Dashboard
 
-![Executive Dashboard](<img width="1016" height="645" alt="image" src="https://github.com/user-attachments/assets/68b401ee-c1f1-4329-b28d-d91df2608482" />
+![Executive Dashboard](<img width="1016" height="645" alt="image" src="https://github.com/user-attachments/assets/b7248ee1-26cb-49ac-b98d-6ee9d33c0626" />
+
 )
 
 ---
