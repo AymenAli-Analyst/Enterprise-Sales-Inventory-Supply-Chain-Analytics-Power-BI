@@ -126,7 +126,8 @@ Operational dashboard focusing on inventory efficiency:
 
 ## 📦 Product Performance Analytics
 
-![Product Dashboard](YOUR_IMAGE_LINK_3)
+![Product Dashboard](<img width="1018" height="646" alt="image" src="https://github.com/user-attachments/assets/62c25a48-a341-4140-a8a3-6aca5bd2b5b1" />
+)
 
 ---
 
